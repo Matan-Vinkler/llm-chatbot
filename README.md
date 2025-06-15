@@ -60,4 +60,4 @@ Type something and experiment with the model. Enjoy!
 ## Notebooks
 Navigate `notebooks/` to run them for research purposes.
 
-**Note: Please read the [`README`](notebooks/README) before running any notebook!**
+**Note: Please read the [`README`](notebooks/README.md) before running any notebook!**
